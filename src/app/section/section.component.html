@@ -1,0 +1,5 @@
+<h1>Section</h1>
+
+<div *ngFor="let marker of items" class="item">
+  <ng-template [ngTemplateOutlet]="marker.template"></ng-template>
+</div>
