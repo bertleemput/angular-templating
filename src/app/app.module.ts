@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { SectionComponent } from './section/section.component';
-import { SectionItemDirective } from './section-item.directive';
+import { SectionItemDirective } from './section/section-item.directive';
 
 @NgModule({
   declarations: [

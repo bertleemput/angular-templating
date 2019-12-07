@@ -1,5 +1,5 @@
 import { Component, QueryList, AfterContentInit, ContentChildren } from '@angular/core';
-import { SectionItemDirective } from '../section-item.directive';
+import { SectionItemDirective } from './section-item.directive';
 
 
 @Component({
